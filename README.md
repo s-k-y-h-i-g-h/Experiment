@@ -14,5 +14,5 @@ Open source (Blender/Photoshop project files) copyleft graphics.
 # This Project
 This project will contain the latest version of the license and the world's first open source album. 
 
-# Format
+## Format
 This is a rolling release project. Yup, a rolling release album! Told ya it's experimental!
