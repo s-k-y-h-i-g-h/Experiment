@@ -4,7 +4,7 @@ Welcome to Experiment.
 We are bringing the concept of open source to the music scene with a new GPL-style license.
 
 # Open Source What?
-Open source (DAW project files) copyleft music.
+Open source (DAW project files) copyleft music.  
 Open source (Blender/Photoshop project files) copyleft graphics.
 
 - **OSM** Open Source Music
